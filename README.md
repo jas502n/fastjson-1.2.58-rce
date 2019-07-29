@@ -3,6 +3,13 @@
 ```
 fastjson autoType is enabled
 h2 database and some jar
+.
+├── fastjson-1.2.58.jar
+├── h2-1.4.199.jar
+├── jackson-annotations-2.9.8.jar
+├── jackson-core-2.9.8.jar
+├── jackson-databind-2.9.8.jar
+└── logback-core-1.3.0-alpha4.jar
 ```
 ![](./test.png)
 ![](./fastjson-1.2.58.jpg)
