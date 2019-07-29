@@ -5,8 +5,12 @@ fastjson autoType is enabled
 h2 database and some jar
 ```
 
-
 ![](./fastjson-1.2.58.jpg)
+
+
+### Download fastjson-1.2.58.jar
+http://repo1.maven.org/maven2/com/alibaba/fastjson/1.2.58/fastjson-1.2.58.jar
+
 
 ### exp.java
 ```
