@@ -4,7 +4,7 @@
 fastjson autoType is enabled
 h2 database and some jar
 ```
-
+![](./test.png)
 ![](./fastjson-1.2.58.jpg)
 
 
